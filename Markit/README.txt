@@ -1,6 +1,6 @@
 CONTENTS 
 
-Markit:  Company Lookup API Stock Quote APIt Family, TypeKit Family Variation, Interactive Chart API
+Markit: Company Lookup API,	Stock Quote API,	Family Interactive Chart API
 
 MarkitLookUp.java
 
